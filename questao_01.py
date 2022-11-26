@@ -22,7 +22,7 @@ print("-" * 20)
 try: 
       
     
-    for port in range(1,65535):  #mostra todas as portas do ip 
+    for port in range(1,65535):
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
         socket.setdefaulttimeout(1) 
         

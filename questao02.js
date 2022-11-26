@@ -1,6 +1,9 @@
 //https://nodejs.org/en/knowledge/HTTP/servers/how-to-create-a-HTTPS-server/
 //https://nodejs.org/api/https.html
 //https://www.digitalocean.com/community/tutorials/use-expressjs-to-deliver-html-files
+// precisa ter o node e o express instalados 
+    //npm install node
+    //npm install express
 //para executar digitar : node questao02.js no terminal 
 // Certificado foi gerado utilizando o OPENSSL 
 
