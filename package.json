@@ -1,0 +1,15 @@
+{
+  "name": "seguranca-vf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "questao02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "save": "^2.9.0"
+  }
+}
